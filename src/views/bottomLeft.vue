@@ -6,7 +6,7 @@
           <icon name="chart-bar"></icon>
         </span>
         <div class="d-flex">
-          <span class="fs-xl text mx-2">数据统计图</span>
+          <span class="fs-xl text mx-2">GLTF类型模型加载</span>
         </div>
       </div>
       <div>
